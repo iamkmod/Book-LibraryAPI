@@ -262,7 +262,7 @@ ISC License
 
 ## 👤 Author
 
-Your Name/Organization
+Mustapha Odebiyi
 
 ## 🤝 Contributing
 
